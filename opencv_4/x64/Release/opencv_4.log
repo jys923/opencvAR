@@ -1,0 +1,28 @@
+﻿  AR - 복사본 - 복사본.cpp
+C:\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+AR - 복사본 - 복사본.cpp(47): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+AR - 복사본 - 복사본.cpp(223): warning C4244: '초기화 중': 'std::streamoff'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(970): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(983): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(997): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(1004): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(1005): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(1006): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(1018): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(1035): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(1077): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(1078): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(1139): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(1140): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(1155): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+AR - 복사본 - 복사본.cpp(1450): warning C4244: '=': 'const precision'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  87 of 844 functions (10.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  opencv_4.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\opencv_4\x64\Release\opencv_4.exe
+  opencv_4.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\opencv_4\x64\Release\opencv_4.pdb (Full PDB)
